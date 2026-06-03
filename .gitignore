@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Infotact Data Privacy Guard
+data/
+*.csv
+*.xlsx
+*.sqlite
