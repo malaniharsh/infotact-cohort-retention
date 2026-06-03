@@ -222,3 +222,8 @@ data/
 *.csv
 *.xlsx
 *.sqlite
+# Ignore the entire data folder completely
+data/
+
+# Ignore any CSV files anywhere
+*.csv
